@@ -1,0 +1,6 @@
+ID,Start_Time,End_Time,Severity,Start_Lat,Start_Lng,City,State,Temperature(F),Humidity(%),Visibility(mi),Wind_Speed(mph),Weather_Condition
+A-1,2016-02-08 05:46:00,2016-02-08 11:00:00,2,39.865147,-84.058723,Dayton,OH,42.1,87.0,10.0,10.4,Light Rain
+A-2,2016-02-08 06:07:00,2016-02-08 06:14:00,2,39.928059,-82.831184,Reynoldsburg,OH,36.9,100.0,10.0,11.5,Overcast
+A-3,2016-02-08 06:49:00,2016-02-08 07:53:00,3,39.063148,-84.032608,Dayton,OH,39.0,100.0,10.0,13.8,Mostly Cloudy
+A-4,2016-02-08 07:23:00,2016-02-08 07:33:00,2,40.798153,-81.262581,Akron,OH,36.0,93.0,10.0,10.5,Overcast
+A-5,2016-02-08 07:39:00,2016-02-08 08:29:00,2,39.716812,-84.173363,Dayton,OH,39.0,100.0,10.0,12.7,Overcast
